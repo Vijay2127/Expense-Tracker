@@ -1,0 +1,18 @@
+{
+  "expenses": [
+    {
+      "id": "1731572725039",
+      "title": "Movie",
+      "description": "",
+      "category": "Entertainment",
+      "price": "15000"
+    },
+    {
+      "id": "1731572768847",
+      "title": "Hospital",
+      "description": "Fever",
+      "category": "Hospital",
+      "price": "6500"
+    }
+  ]
+}
